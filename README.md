@@ -10,6 +10,12 @@ Objective
 to be done.
 
 
+Do's and Don'ts
+---------------
+
+do: "AfricaHackTrip" — don't: "Africa Hack Trip"
+
+
 Past Press Coverage
 -------------------
 
