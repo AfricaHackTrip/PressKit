@@ -27,8 +27,8 @@ on open source projects, to learn from each other and to exchange
 experiences our experiences. We also plan to organize an event at each
 location we will visit.
 
-During our journey, we will create a video documentation show casing the
-coworking spaces and their developers. 
+As an outcome, we will create a video documentation showcasing the
+communities, their coworking spaces and their developers. 
 
 
 Do's and Don'ts
