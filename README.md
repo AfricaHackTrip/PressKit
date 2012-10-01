@@ -7,11 +7,11 @@ Find all information regarding the AfricaHackTrip Project in this Folder.
 Objective
 ---------
 
-We want to explore the emerging African tech communities, get to know
-their creatives, learn about their projects, problems and potentials.
-We'll document our experiences to "fill the blank canvas", get rid of
-unfounded stereotypes and spark interest in the global tech communities
-to connect and collaborate with our new African members.
+We want to explore and connect with the emerging African tech communities,
+get to know their creatives, learn about their projects, challenges and
+potentials. We'll document our experiences to "fill the blank canvas",
+replace stereotypes with human stories and spark interest to connect 
+and collaborate with new members of our global tech communities.
 
 
 Execution
