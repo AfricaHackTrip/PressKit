@@ -17,7 +17,7 @@ and collaborate with new members of our global tech communities.
 Execution
 ---------
 
-Starting in Sep 24th 2013, we will visit the tech communities of
+Starting on Sep 24th 2013, we will visit the tech communities of
 Nairobi, Kampala, Kigali and Dar es Salaam and stay at each place for 
 around a week. We'll visit with 10 creatives from Europe and the 
 United States, with two additional places reserved for local 
