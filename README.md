@@ -14,7 +14,7 @@ replace stereotypes with human stories and spark interest to connect
 and collaborate with new members of our global tech communities.
 
 
-Trip
+The Trip
 ---------
 
 Starting on Sep 24th 2013, we will visit the tech communities of
