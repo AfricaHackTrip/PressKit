@@ -19,11 +19,9 @@ Execution
 
 Starting on Sep 24th 2013, we will visit the tech communities of
 Nairobi, Kampala, Kigali and Dar es Salaam and stay at each place for 
-around a week. We'll visit with 10 creatives from Europe and the 
-United States, with two additional places reserved for local 
-participants.
+around a week. We'll visit with 8 creatives from Europe.
 
-During our journey, we will meet local developers software product
+During our journey, we will meet local developers, software product
 builders, to learn from each other and to exchange experiences.
 We will organize an event at each location we will visit.
 
@@ -45,4 +43,4 @@ to be done.
 Contact
 -------
 
-For any questions, please contact hello@africahacktrip.org
+For any questions, please contact press@africahacktrip.org
