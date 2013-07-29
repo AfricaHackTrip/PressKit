@@ -1,4 +1,4 @@
-﻿AfricaHackTrip Press Kit
+AfricaHackTrip Press Kit
 ========================
 
 Find all information regarding the AfricaHackTrip Project in this Folder.
@@ -14,7 +14,7 @@ replace stereotypes with human stories and spark interest to connect
 and collaborate with new members of our global tech communities.
 
 
-Trip
+Execution
 ---------
 
 Starting on Sep 24th 2013, we will visit the tech communities of
@@ -27,7 +27,6 @@ We will organize an event at each location we will visit.
 
 As an outcome, we will create a video documentation showcasing the
 communities, their coworking spaces and their developers. 
-
 
 Do's and Don'ts
 ---------------
