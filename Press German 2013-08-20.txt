@@ -1,0 +1,95 @@
+ 
+5 Wochen // 4 Laender // 9 Hacker
+
+Wir sind eine Gruppe europaeischer Entwickler und Designer, die neugierig auf die wachsende afrikanische Tech Szene sind. Seit Untersee-Glasfaserkabel Ostafrika mit schnellem, verlaesslichem und bezahlbarem Internet verbinden, ist die Szene in einem Prozess des “leapfroggings”: von keinem Netz zu mobilem Netz in 4 Jahren. Wir arbeiten mit Menschen aus der ganzen Welt zusammen, aber bisher noch nicht mit Hackern aus Afrika. Das wollen wir aendern. Wir glauben, dass es persoenlichen Kontakt braucht, um langfristige Netzwerke aufzubauen. Darum haben wir beschlossen, im September/Oktober 2013 nach Kenia, Uganda, Ruanda und Tansania zu fahren.
+Wir werden unsere Kollegen in Afrika treffen, uns mit ihnen vernetzen, die europaeische und afrikanische Hacker-Kultur zusammenbringen und kontinuierlichen Austausch anstossen. Wir werden unseren Road Trip im Web dokumentieren und einen Film darueber machen. Wie wollen die internationale Tech Szene fuer afrikanische Hacker begeistern. 
+
+
+## TRIP ##
+
+Warum auf einen Trip gehen und nicht ein Hangout veranstalten?
+Wir glauben, dass es persoenlichen Kontakt braucht, um langfristige Netzwerke auszubauen. Und wir sind neugierig, nicht nur darauf, woran afrikanische Hacker arbeiten, sondern auch darauf, wer sie sind und wie sie leben. Wir hoffen, dass einige von ihnen uns auch bald besuchen werden.
+
+Was ist der Plan?
+24. Sep - 01. Okt     	Kenia (Nairobi)
+02. Okt - 08. Okt     	Uganda (Kampala)
+09. Okt - 15. Okt     	Ruanda (Kigali)
+16. Okt - 22. Okt     	Tansania (Dar es Salaam)
+22. Okt - 28. Okt     	DEMO Africa Conference, Nairobi/Kenia
+
+Wir werden jeweils ein Event veranstalten und bei Afrikas groesstem Start-Up-Event DEMO Africa praesent sein, wodurch wir mehrere hundert Entwickler treffen werden. Ausserdem werden wir Personen interviewen, die uns Hintergruende erklaeren oder ihre Erfolgsgeschichten erzaehlen, und wir werden viel Raum fuer spontane Begegnungen mit lokalen Hackern lassen. 
+
+…und dann?
+Spreading the Word ist eins der Ziele des AfricaHackTrip. Wir wollen alle in der Tech Community begeistern und wuenschen uns, dass moeglichst viele Leute mitmachen und den Trip verfolgen. Wir werden bloggen und tweeten, wir ruehren die Pressetrommel, und vor Allem werden wir einen Film machen. Eigentlich viele kleine Filme und einen grossen. Wir wollen so viele Leute wie moeglich erreichen.
+
+ 
+## HACK ##
+
+Warum ein HackTrip und kein TechTrip?
+Weil wir Hacker sind.
+Merke: Hacker sind keine Cracker. 
+Hacker sind Computerspezialisten, die der Hackerethik folgen:
+*	Der Zugang zu Computern und allem, was einem zeigen kann, wie diese Welt funktioniert, sollte unbegrenzt und vollstaendig sein.
+*	Alle Informationen muessen frei sein.
+*	Misstraue Autoritaeten - foerdere Dezentralisierung
+*	Beurteile einen Hacker nach dem, was er tut und nicht nach ueblichen Kriterien wie Aussehen, Alter, Rasse, Geschlecht oder gesellschaftlicher Stellung.
+*	Man kann mit einem Computer Kunst und Schoenheit schaffen.
+*	Computer koennen dein Leben zum Besseren veraendern
+*	Muelle nicht in den Daten anderer Leute
+*	oeffentliche Daten nuetzen, private Daten schuetzen
+
+Strom und ein Computer mit Internetzugang sind alles, was ein Hacker braucht, um Neues zu schaffen, lokale Probleme zu loesen und weltweit erfolgreich zu sein. ueberall auf der Welt.
+
+Wir sind eine Gruppe von acht Entwicklern, Designern und Bloggern aus Europa und sind fasziniert von den technischen, aber auch den wirtschaftlichen und sozialen Entwicklungen, die der Anschluss an das Glasfasernetz in Afrika gerade mit sich bringt. Wir sind Selbststaendige und Freiberufler. Statt in Bueros arbeiten wir in Hubs und Co-Working Spaces, genau wie unsere afrikanischen Peers. Wir entwickeln und vermarkten Software Produkte und sind sehr stark in den Bereichen Open Source und Peer Learning, auch und besonders fuer Frauen in der IT, engagiert. 
+Afrikanische Programmierer und Designer sind die wichtigste Ressource im Wachstumsmarkt Internet in Afrika. Der Wettbewerb internationaler Konzerne um diese Ressource hat laengst begonnen. Wir moechten lokale Talente treffen, die nicht nur mit Computern Geld verdienen wollen, sondern ihr kreatives Potential mit den Moeglichkeiten zur Veraenderung, die open-source-Denken in einer vernetzten Welt bietet, verbinden wollen. 
+
+Wir moechten afrikanische Hacker treffen und kennenlernen, ihre und unsere Netzwerke, Tools und Erfahrungen teilen, und gemeinsam neue Wege gehen. Wir sind kein globaler IT-Konzern und wollen es auch nicht sein. Wir wollen nur die Welt ein bisschen besser und schoener hacken.
+
+
+## AFRICA ##
+ 
+Why Africa?
+Unser Interesse an Afrika wurde geweckt, als wir mitbekommen haben, dass sich in den letzten Jahren eine aufregende junge Hackerszene in Ostafrika entwickelt hat. Schnellere, billigere und verlaesslichere Internetverbindungen, und das rapide Wachstum der mobilen Kommunikation sind die Hauptfaktoren fuer die Entwicklung der ICT Industrie in Afrika. Am Schnittpunkt der beiden Trends sind es mittlerweile meistens Mobilgeraete, mit denen Afrikaner zum ersten Mal mit Breitbandgeschwindigkeit ins Netz gehen.
+
+Und wir fragen uns: Welche Rolle spielt dabei kostenlose Open-Source-Software?
+
+Africa is flat.
+Die Welt ist schon lange flach, doch die digitale Kluft, die die meisten ostafrikanischen Laender von dieser Entwicklung ausschloss, ist erst seit kurzem ueberwunden worden. Ein wichtiger Grund waren nicht vorhandene bezahlbare, verlaessliche und schnelle Internetverbindungen. Das erste Untersee-Glasfaserkabel, das Ostafrika mit dem Breitband-Netz verbindet, wurde im Juli 2009 angeschlossen, mittlerweile gibt es drei Unterseekabel und alle grossen Staedte auf dem Kontinent sind angebunden. Die Folgen des „Leapfrogging“, das seitdem stattfindet, sind erstaunlich, nicht nur in wirtschaftlicher, sondern auch in sozialer und politischer Hinsicht. Letztere basieren vielfach auf kostenloser Open-Source-Software.
+
+Ein Beispiel ist Ushahidi, urspruenglich eine Website, auf der Buergerjournalisten die Gewaltausbrueche nach den Wahlen in Kenia 2008 kartographierten. Die Karten-Software wurde spaeter benutzt, um ueberlebende des Erdbebens in Haiti zu finden, und auch als Organisationsinstrument waehrend des Arabischen Fruehlings. Mittlerweile ist Ushahidi eine non-profit Tech Firma, die kostenlose und Open-Source-Software baut, die zur Demokratisierung von Informationen und mehr Transparenz beitraegt. Und die Menschen hinter Ushahidi sind an einer Menge sehr interessanter Projekte beteiligt, vom Aufbau von Coworking Communities, ueber Peer-to-Peer-Lernen, bis hin zum Launch des BRCK Net Backup Generator for the Internet, der die Versorgung mit Strom und Internetverbindung auch in laendlichen Gegenden gewaehrleisten wird.
+
+Sub-Sahara-Afrika ist neben China der am schnellsten wachsende Markt der Welt. Internet und mobile Kommunikation sind zwei der am schnellsten wachsenden Branchen in diesem Markt. 
+Der afrikanische Mobilfunkmarkt ist zwischen 2004 und 2007 dreimal so schnell gewachsen wie der weltweite Durchschnitt, und er waechst weiterhin rasant, auf Grund von massiver Nachfrage und entsprechenden Investitionen. Mindestens ebenso interessant ist die immense Kreativitaet, mit der afrikanische Entwickler mobile Technologien nutzen, um lokale Probleme zu loesen. Open Source spielt beim Programmieren mobiler Apps noch keine grosse Rolle, darueber moechten wir sprechen.
+Mobiltelefone mit Dual-SIM und mobiler Geldtransfer (z.B. M-Pesa) sind nur zwei Innovationen, die ihren Ursprung in Afrika haben. Beispiele dafuer, was lokale Entwickler aus den Moeglichkeiten machen, sind: mobile Gesundheitsvorsorge in laendlichen Gegenden (z.B. mPharma), Saatgut-Versicherungen fuer Kleinbauern, die auf mobilem Geldtransfer basieren (z.B. Kilimo Salama)und Tools fuer mehr Transparenz im Landwirtschaftssektor (z.B. MFarm).
+
+Was berichten die Medien?
+Es gibt noch immer nicht besonders viel internationale Berichterstattung darueber, was in Afrika in Sachen Tech passiert. Aber es wurde berichtet, dass die meisten Global Player der IKT Branche in den letzten Monaten massiv in Afrika investiert haben:
+* Mai 2013: IBM eroeffnet ein Innovation Centre in Nairobi/Kenya. Google kuendigt den Aufbau von Hochgeschwindigkeits-Drahtlos-Netzwerken in der Region an. Die Rockefeller Foundation investiert 97 Millionen US-Dollar in ihr Digital Jobs Africa Programm.
+* Maerz 2013: Samsung praesentiert seine Built for Africa Produktreihe.
+* Februar 2013: Microsoft startet seine 4Afrika Kampagne zur Vermarktung von Windows-Telefonen in Afrika und zur Ausbildung von 100.000 Entwicklern.
+* Januar 2013: Intel entwickelt Yolo Smartphones fuer den afrikanischen Markt.
+* September 2012: SAP schliesst einen Multi-Millionen-Euro-Deal mit der nigerianischen Dangote Group ab.
+
+Was wir spannender finden:
+* Juni 2013: iHub kuendigt die Entwicklung von Gearbox an, einem Makerspace in Nairobi.
+* Mai 2013: Ushahidi startet eine Kampagne fuer den BRCK backup Generator for the Internet auf Kickstarter und erreicht sein Ziel innerhalb weniger Tage.
+* September 2012: Savannah Fund startet ein Accelerator-Programm fuer afrikanische IT-Entrepreneure.
+
+
+
+## PARTNER ##
+
+
+What's the Deal?
+Beim AfricaHackTrip geht es um Tech Communities. Wir wollen Menschen vernetzten und Wissen teilen. Wir sind keine Investoren-Reise, wir investieren unsere private Zeit und unser privates Geld. Weil wir Bock drauf haben, weil es uns Spass macht und weil wir glauben, dass wir hier was Gutes fuer die Szene machen koennen. Unsere Partner helfen uns, die Kosten niedrig zu halten, mehr Events fuer mehr Leute zu veranstalten und einen besseren Film zu produzieren. Wir wollen uns aufs Organisieren und Vorbereiten des Trips konzentrieren – nicht aufs Sorgen um Geld, um ihn zu bezahlen.
+
+Wir freuen uns ueber mehr Partner.
+
+
+Hugs, HighFives und ganz viel <3 gehen schon jetzt an: GitHub, geeksphone
+
+
+Falls ihr mehr Informationen braucht - wir haben jede Menge und lieben es zu teilen, also schreibt uns doch einfach: press@africahacktrip.org  
+
+www.africahacktrip.org
+
